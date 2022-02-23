@@ -41,4 +41,4 @@ Useful packages to dive deeper into:
 - Max Parzen from Germany
 - Thomas Lesieur from France
 - ...
-- YOU?
+- K
